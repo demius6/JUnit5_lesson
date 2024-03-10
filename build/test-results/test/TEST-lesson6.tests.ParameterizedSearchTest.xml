@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lesson6.tests.ParameterizedSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-10T14:09:25" hostname="MacBook-Air-Alex.local" time="1.886">
+  <properties/>
+  <testcase name="Проверка отображения поисковых результатов в яндексе для запроса &quot;JUnit 5&quot;" classname="lesson6.tests.ParameterizedSearchTest" time="1.886"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>
